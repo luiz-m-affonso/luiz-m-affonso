@@ -13,6 +13,14 @@
 [<img align="left" alt="insight-creator.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Luiz Mathheus A. Souza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br>
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Insight-Creator&show_icons=true&theme=dark&count_private=true)
+
+
+<br>
+<br>
 
 <a href="https://github.com/Insight-Creator/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Insight-Creator&repo=opendax" />
