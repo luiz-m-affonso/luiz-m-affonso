@@ -3,9 +3,13 @@
 ### Software Developer
 
 • Junior Software Developer
+
 • Le Wagon - Full Stack Web Development - Coding Boot-camp
+
 • Business Administration Student at Business School - IAG - PUC-RIO.
+
 • Technical in Business Administration: Emphasis on Business Management
+
 – Mentality of Shoshin (Beginner's Mind) and living with the real deliberate practice.
 
 ### Connect with me:
