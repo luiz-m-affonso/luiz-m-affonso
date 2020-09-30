@@ -2,15 +2,47 @@
 
 ### Software Developer
 
-• Junior Software Developer
+    class ReadMe:
+        def __init__(self, username="Insight-Creator", year=2020):
+            self.username = username
+            self.name = 'Luiz Matheus A. Souza'
+            self.education = {
+                'programming': ['Full Stack Web Development', 'Le Wagon'],
+                'business': ['BBA, Bachelor of Administration'], 'Pontifícia Universidade Católica - PUC-RIO'],
+            }
+            self.employment = {
+                'developer': ['Brasil', 'Rio de Janeiro'],
+            }
 
-• Le Wagon - Full Stack Web Development - Coding Boot-camp
+        def doing(self, now=2020):
+            today = self.year
 
-• Business Administration Student at Business School - IAG - PUC-RIO.
+            if now < today:
+                experience = self.employment['Junior Software Developer']
+                return """
+                Looking for a position! {large_firms} {startups} {remote} in {big_cities}.
+                """.format(large_firms=experience[0], big_cities=experience[1])
 
-• Technical in Business Administration: Emphasis on Business Management
+            elsif now = today:
+                dream = self.education['programming']
+                return """
+                I am currently learning {code} at {code_institute}.
+                """.format(code=dream[0], code_institute=dream[1])
 
-– Mentality of Shoshin (Beginner's Mind) and living with the real deliberate practice.
+            elsif now > today:
+                goal = self.employment['developer']
+                return """
+                Self-Taught Developer Learning Everyday with {projects}.
+                projects='software development')
+            else:
+                return """
+                ### Hi there 👋
+                """
+        def collaborate(self, role, organization, location):
+            opportunity = self.employment
+            opportunity[role] = [organization, location]
+
+        me = ReadMe(2020)
 
 ### Connect with me:
 
@@ -25,13 +57,6 @@
 
 <br>
 <br>
-
-<a href="https://github.com/Insight-Creator/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Insight-Creator&repo=opendax" />
-</a>
-<a href="https://github.com/Insight-Creator/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Insight-Creator&repo=peatio" />
-</a>
 
 [website]: https://insight-creator.github.io/dev-profile/
 [linkedin]: https://www.linkedin.com/in/luiz-affonsosouza/
