@@ -52,10 +52,7 @@
 
 <br>
 <br>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Insight-Creator&show_icons=true&theme=dark&count_private=true)
-
-
+(https://github-readme-stats.vercel.app/api?username=Insight-Creator&show_icons=true&theme=dark&count_private=true)
 <br>
 <br>
 
