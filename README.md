@@ -50,8 +50,6 @@
 
         me = ReadMe(2020)
 
-### Connect with me:
-
 <br>
 <br>
 
