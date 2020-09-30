@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there, I'm Luiz - aka [Insight-Creator][website] 👋
 
-<!--
-**Insight-Creator/Insight-Creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer
 
-Here are some ideas to get you started:
+• Junior Software Developer
+• Le Wagon - Full Stack Web Development - Coding Boot-camp
+• Business Administration Student at Business School - IAG - PUC-RIO.
+• Technical in Business Administration: Emphasis on Business Management
+– Mentality of Shoshin (Beginner's Mind) and living with the real deliberate practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Connect with me:
+
+[<img align="left" alt="insight-creator.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Luiz Mathheus A. Souza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
+<br />
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Insight-Creator Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Insight-Creator&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://insight-creator.github.io/dev-profile/
+[linkedin]: https://www.linkedin.com/in/luiz-affonsosouza/
