@@ -28,17 +28,17 @@
                 experience = self.employment['Junior Software Developer']
                 return """
                 Looking for a position! {large_firms} {startups} {remote} in {big_cities}.
-                """.format(large_firms=experience[0], big_cities=experience[1])
+                """.format(large_firms, startups, remote, big_cities)
 
             elsif now = today:
                 dream = self.education['programming']
-                return """
+                return "Building stuff to change the world.
                 I am currently learning {code} at {code_institute}.
                 """.format(code=dream[0], code_institute=dream[1])
 
             elsif now > today:
                 goal = self.employment['developer']
-                return """
+                return "Junior Software Developer""
                 Self-Taught Developer Learning Everyday with {projects}.
                 projects='software development')
             else:
