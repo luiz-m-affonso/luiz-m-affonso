@@ -1,6 +1,3 @@
-![Alt Text](https://media.giphy.com/media/Nvs4ansXE55h1EQVJj/giphy.gif)
-
-
 
 [<img align="left" alt="insight-creator.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Luiz Mathheus A. Souza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
