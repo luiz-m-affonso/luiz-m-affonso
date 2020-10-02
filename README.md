@@ -1,4 +1,5 @@
-![alt-Text](https://media.giphy.com/media/Nvs4ansXE55h1EQVJj/giphy.mp4)
+![Alt Text](https://media.giphy.com/media/Nvs4ansXE55h1EQVJj/giphy.gif)
+
 
 
 [<img align="left" alt="insight-creator.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
