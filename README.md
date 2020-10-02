@@ -3,7 +3,7 @@
 
 <br>
 
-![alt-text](https://github.com/Insight-Creator/Insight-Creator/blob/master/Image.png)
+![alt-text](https://github.com/Insight-Creator/Insight-Creator/blob/master/Particle.png)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Insight-Creator&show_icons=true&theme=dark&count_private=true)
