@@ -10,7 +10,7 @@
 <br>
 
     class ReadMe:
-        def __init__(self, username="Insight-Creator", year=2020):
+        def initialize(self, username="Insight-Creator", year=2020):
             self.username = username
             self.name = 'Luiz Matheus A. Souza'
             self.education = {
