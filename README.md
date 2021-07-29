@@ -5,6 +5,14 @@
 
 ![alt-text](https://github.com/Insight-Creator/Insight-Creator/blob/master/Particle.png)
 
+```ruby
+ Persist. Practice. Experiment. Imagine. Do your best work, and all else will follow. - Sandi Metz
+
+ Make it work, make it right, make it fast. - Kent Beck
+
+ What is simplicity? Simplicity is the shortest path to a solution. - Ward Cunningham
+```
+
 ____________________________
 
 **Programming Languages** && **Frameworks and Platforms**
