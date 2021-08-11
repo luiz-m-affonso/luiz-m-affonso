@@ -7,12 +7,7 @@
 
 ```ruby
  Persist. Practice. Experiment. Imagine. Do your best work, and all else will follow. - Sandi Metz
-
- Make it work, make it right, make it fast. - Kent Beck
-
- What is simplicity? Simplicity is the shortest path to a solution. - Ward Cunningham
 ```
-
 ____________________________
 
 ### **Programming Languages** && **Frameworks && Platforms**
@@ -32,13 +27,6 @@ ____________________________
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ___________________________
-
-### **Packages Managers**
-
-  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-  ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
-____________________________
 
 ### **Design** 
   
