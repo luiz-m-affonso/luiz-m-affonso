@@ -10,7 +10,7 @@
 ```
 ____________________________
 
-### **Programming Languages** && **Frameworks && Platforms**
+### **Programming Languages** & **Frameworks & Platforms**
 
   ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
