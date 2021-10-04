@@ -1,6 +1,5 @@
 
 [![Linkedin: Luiz Affonso](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-affonsosouza/)](https://www.linkedin.com/in/luiz-affonsosouza/)
-[![GitHub: Luiz Affonso](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiz-m-affonso)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitelink=mailto:luizbuchhalter@outlook.com)](mailto:luizbuchhalter@outlook.com)
 
 ![alt-text](https://github.com/Insight-Creator/Insight-Creator/blob/master/Particle.png)
