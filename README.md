@@ -51,9 +51,3 @@ ____________________________
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### 🏆 GitHub Status && Trophies
-   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-m-affonso&show_icons=true&theme=dark)  
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=luiz-m-affonso&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
