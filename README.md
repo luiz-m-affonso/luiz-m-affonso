@@ -2,7 +2,7 @@
 [![Linkedin: Luiz Affonso](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-affonsosouza/)](https://www.linkedin.com/in/luiz-affonsosouza/)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whitelink=mailto:luizbuchhalter@outlook.com)](mailto:luizbuchhalter@outlook.com)
 
-![alt-text](https://github.com/Insight-Creator/Insight-Creator/blob/master/Particle.png)
+![alt-text](https://github.com/Insight-Creator/Insight-Creator/blob/master/Particle.png) 
 
 ```ruby
  Persist. Practice. Experiment. Imagine. Do your best work, and all else will follow. - Sandi Metz
@@ -50,3 +50,7 @@ ____________________________
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  
+  ____________________________
+  
+<!--   <a href="https://app.daily.dev/luiz_m_01"><img src="https://api.daily.dev/devcards/68fcf769c36d4b55b4d154a4f4b8f999.png?r=0dj" width="400" alt="Luiz Affonso's Dev Card"/></a> -->
