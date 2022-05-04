@@ -19,13 +19,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/luiz-m-affonso](https://github.com/luiz-m-affonso)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@pragmatic.engineer), [Hashnode](https://hashnode.com/@affonsoluiz), [DEV.to](https://dev.to/luizmaffonso)
+- 📝 I'm starting to write articles on [Medium](https://medium.com/@pragmatic.engineer), [Hashnode](https://hashnode.com/@affonsoluiz), [DEV.to](https://dev.to/luizmaffonso)
 
 - 💬 Ask me about **Backend, Frontend & DevOps**
 
 - 📫 How to reach me **luiz.m.affonso01@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/luiz-affonsosouza/](https://www.linkedin.com/in/luiz-affonsosouza/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/luiz-affonsosouza/)
 
 - ⚡ Important and fun fact **Married with Carla and father of two cats, Chronos and Midnight**
 
