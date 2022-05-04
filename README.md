@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiz-m-affonso&label=Profile%20views&color=0e75b6&style=flat" alt="luiz-m-affonso" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiz-m-affonso&theme=onedark" alt="luiz-m-affonso" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiz-m-affonso&theme=onedark&row=2" alt="luiz-m-affonso" /></a> </p>
 
 - 🔭 I’m currently working on **Beep Saude**
 
