@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning & Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://github.com/luiz-m-affonso](https://github.com/luiz-m-affonso)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/luiz-m-affonso)
 
 - 📝 I'm starting to write articles on [Medium](https://medium.com/@pragmatic.engineer), [Hashnode](https://hashnode.com/@affonsoluiz), [DEV.to](https://dev.to/luizmaffonso)
 
