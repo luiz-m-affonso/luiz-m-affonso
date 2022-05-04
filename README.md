@@ -23,9 +23,7 @@
 
 - 💬 Ask me about **Backend, Frontend & DevOps**
 
-- 📫 How to reach me **luiz.m.affonso01@gmail.com**
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/luiz-affonsosouza/)
+- 📄 Know about my experiences and How to reach me -> [Linkedin](https://www.linkedin.com/in/luiz-affonsosouza/)
 
 - ⚡ Important and fun fact **Married with Carla and father of two cats, Chronos and Midnight**
 
