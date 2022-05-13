@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Affonso</h1>
-<h3 align="center">A passionate Full Stack Developer(Back-end Heavy) from Brazil</h3>
+<h3 align="center">A passionate Software Engineer(Back-end Heavy) from Brazil</h3>
 
 ```ruby
  Persist. Practice. Experiment. Imagine. Do your best work, and all else will follow. - Sandi Metz
