@@ -27,6 +27,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code](https://medium.com/@pragmatic.engineer/clean-code-61984c15a35c?source=rss-2edaf3858beb------2)
+- [Technology Market](https://medium.com/@pragmatic.engineer/technology-market-5df4dfd5e451?source=rss-2edaf3858beb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <h3 align="left">Languages and Tools:</h3>
