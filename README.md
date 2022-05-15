@@ -27,12 +27,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<p align="left">
-<a href="https://dev.to/https://dev.to/luizmaffonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/luizmaffonso" height="30" width="40" /></a>
-<a href="https://hashnode.com/@affonsoluiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@affonsoluiz" height="30" width="40" /></a>
-<a href="https://medium.com/@pragmatic.engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pragmatic.engineer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/insight-creator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="insight-creator" height="30" width="40" /></a>
-</p>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <h3 align="left">Languages and Tools:</h3>
