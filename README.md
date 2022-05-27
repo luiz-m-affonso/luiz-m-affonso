@@ -9,16 +9,19 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/68fcf769c36d4b55b4d154a4f4b8f999.png?r=bvr"
+      src="https://api.daily.dev/devcards/68fcf769c36d4b55b4d154a4f4b8f999.png?r=qqf"
     />
   </a>
 </div>
+
+<h1 align="center">Hi 🚀, I'm Luiz Affonso</h1>
+<h3 align="center">Software Engineer(Back-end Heavy) from Brazil</h3>
 
 - 🔭 I’m currently working on **Beep Saude**
 
 - 🌱 I’m currently learning **Golang, Computer Science**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 💻 I’m looking to collaborate on **Open Source**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/luiz-m-affonso)
 
