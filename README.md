@@ -3,23 +3,32 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  </header>
  <body>
-  <h1 align="center">Hi 👋, I'm Luiz Affonso</h1>
-  <h3 align="center">A passionate Software Engineer(Back-end Heavy) from Brazil</h3>
+  
+  <div align="left">
+    <a href="https://app.daily.dev/luiz_m_01" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/68fcf769c36d4b55b4d154a4f4b8f999.png?r=bvr"
+    />
+  </a>
+</div>
 
-  ```markdown
-   Persist. Practice. Experiment. Imagine. Do your best work, and all else will follow. - Sandi Metz
-  ```
+- 🔭 I’m currently working on **Beep Saude**
 
-  - 🔭 I’m currently working on **Beep Saude**
+- 🌱 I’m currently learning **Golang, Computer Science**
 
-  - 🌱 I’m currently learning **Golang, Computer Science**
+- 👯 I’m looking to collaborate on **Open Source**
 
-  - 👯 I’m looking to collaborate on **Open Source**
+- 👨‍💻 All of my projects are available at [Github](https://github.com/luiz-m-affonso)
 
-  - 📝 I'm starting to write articles on [Medium](https://medium.com/@pragmatic.engineer)
+- 📝 I'm starting to write articles on [Medium](https://medium.com/@pragmatic.engineer)
 
-  - ⚡ Important and fun fact **Married with Carla and father of two cats, Chronos and Midnight**
+- 💬 Ask me about **Backend, Frontend & DevOps**
 
+- 📄 Know about my experiences and How to reach me -> [Linkedin](https://www.linkedin.com/in/luiz-affonsosouza/)
+
+- ⚡ Important and fun fact **Married with Carla and father of two cats, Chronos and Midnight**
 
   ![Metrics](https://metrics.lecoq.io/luiz-m-affonso?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&lines=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo)
 
@@ -47,8 +56,10 @@
     <img align="center" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="Git" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
-
-  ____________________________
-  <!--   <a href="https://app.daily.dev/luiz_m_01"><img src="https://api.daily.dev/devcards/68fcf769c36d4b55b4d154a4f4b8f999.png?r=0dj" width="400" alt="Luiz Affonso's Dev Card"/></a> -->
  </body>
 </html>
+
+
+```ruby
+ Persist. Practice. Experiment. Imagine. Do your best work, and all else will follow. - Sandi Metz
+```
