@@ -31,7 +31,7 @@
 
 - 📄 Know about my experiences and How to reach me -> [Linkedin](https://www.linkedin.com/in/luiz-affonsosouza/)
 
-- ⚡ Important and fun fact **Married with Carla and father of two cats, Chronos and Midnight**
+- ⚡ Father of two cats, Chronos and Midnight**
 
   ![Metrics](https://metrics.lecoq.io/luiz-m-affonso?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&lines=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo)
 
