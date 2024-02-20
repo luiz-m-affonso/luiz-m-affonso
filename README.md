@@ -5,14 +5,8 @@
  <body>
   
   <div align="left">
-    <a href="https://app.daily.dev/luiz_m_01" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/68fcf769c36d4b55b4d154a4f4b8f999.png?r=qqf"
-    />
-  </a>
-</div>
+   <a href="https://app.daily.dev/luiz_m_affonso"><img src="https://api.daily.dev/devcards/v2/0k4CQXot3d.png?r=3u0&type=default" width="356" alt="Luiz Affonso's Dev Card"/></a>
+  </div>
 
 <h1 align="center">Hi 🚀, I'm Luiz Affonso</h1>
 <h3 align="center">Software Engineer(Back-end Heavy) from Brazil</h3>
@@ -56,7 +50,6 @@
   </div>
  </body>
 </html>
-
 
 ```ruby
  Persist. Practice. Experiment. Imagine. Do your best work, and all else will follow. - Sandi Metz
