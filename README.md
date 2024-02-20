@@ -31,9 +31,7 @@
 
   - ⚡ Father of two cats, Chronos and Midnight**
 
-  ![Metrics](https://metrics.lecoq.io/luiz-m-affonso?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&lines=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo)
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-m-affonso&theme=github-dark-blue" alt="luiz-m-affonso" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-m-affonso&theme=tokyonight&hide_border=false" alt="luiz-m-affonso" /></p>
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
