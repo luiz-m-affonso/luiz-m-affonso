@@ -3,29 +3,33 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  </header>
  <body>
-  
+
   <div align="left">
-   <a href="https://app.daily.dev/luiz_m_affonso"><img src="https://api.daily.dev/devcards/v2/0k4CQXot3d.png?r=3u0&type=default" width="356" alt="Luiz Affonso's Dev Card"/></a>
+    <a href="https://app.daily.dev/luiz_m_affonso" target="_blank">
+      <img
+        width="256"
+        align="right"
+        src="https://api.daily.dev/devcards/v2/0k4CQXot3d.png?r=3u0&type=default"/>
+    </a>
   </div>
+  <h1 align="center">Hi 🚀, I'm Luiz Affonso</h1>
+  <h3 align="center">Software Engineer</h3>
 
-<h1 align="center">Hi 🚀, I'm Luiz Affonso</h1>
-<h3 align="center">Software Engineer(Back-end Heavy) from Brazil</h3>
+  - 🔭 I’m currently working on **Beep Saude**
 
-- 🔭 I’m currently working on **Beep Saude**
+  - 🌱 I’m currently learning **Node | Go, Computer Science**
 
-- 🌱 I’m currently learning **Golang, Computer Science**
+  - 💻 I’m looking to collaborate on **Open Source**
 
-- 💻 I’m looking to collaborate on **Open Source**
+  - 👨‍💻 All of my projects are available at [Github](https://github.com/luiz-m-affonso)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/luiz-m-affonso)
+  <!-- - 📝 I'm starting to write articles on [Medium](https://medium.com/@pragmatic.engineer)
+    -->
+  - 💬 Ask me about **Backend, Frontend & DevOps**
 
-<!-- - 📝 I'm starting to write articles on [Medium](https://medium.com/@pragmatic.engineer)
- -->
-- 💬 Ask me about **Backend, Frontend & DevOps**
+  - 📄 Know about my experiences and How to reach me -> [Linkedin](https://www.linkedin.com/in/luiz-affonsosouza/)
 
-- 📄 Know about my experiences and How to reach me -> [Linkedin](https://www.linkedin.com/in/luiz-affonsosouza/)
-
-- ⚡ Father of two cats, Chronos and Midnight**
+  - ⚡ Father of two cats, Chronos and Midnight**
 
   ![Metrics](https://metrics.lecoq.io/luiz-m-affonso?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&lines=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo)
 
@@ -49,8 +53,8 @@
     <img align="center" alt="Git" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
  </body>
-</html>
 
-```ruby
+ ```ruby
  Persist. Practice. Experiment. Imagine. Do your best work, and all else will follow. - Sandi Metz
 ```
+</html>
