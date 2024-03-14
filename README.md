@@ -17,7 +17,7 @@
 
   - 🔭 I’m currently working on **Beep Saude**
 
-  - 🌱 I’m currently learning **Node | Go, Computer Science**
+  - 🌱 I’m currently learning **Node**
 
   - 💻 I’m looking to collaborate on **Open Source**
 
