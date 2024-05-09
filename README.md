@@ -15,8 +15,6 @@
   <h1 align="center">Hi 🚀, I'm Luiz Affonso</h1>
   <h3 align="center">Software Engineer</h3>
 
-  - 🔭 I’m currently working on **Beep Saude**
-
   - 🌱 I’m currently learning **Node**
 
   - 💻 I’m looking to collaborate on **Open Source**
