@@ -27,8 +27,6 @@
     -->
   - 💬 Ask me about **Backend, Frontend & DevOps**
 
-  - 📄 Know about my experiences and How to reach me -> [Linkedin](https://www.linkedin.com/in/luiz-affonsosouza/)
-
   - ⚡ Father of two cats, Chronos and Midnight**
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz-m-affonso&theme=tokyonight&hide_border=false" alt="luiz-m-affonso" /></p>
